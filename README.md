@@ -6,8 +6,11 @@ The goal is to make farm record-keeping easier — so farmers can make better de
 
 ## Why I Built This
 
-Many small farms track everything in notebooks, memory, or scattered spreadsheets.
-Important details get lost — weather patterns, inputs used, incidents, yields, and sales.
+I originally built Shamba Book for my own farm work. I’ve tried to keep records before — notebooks, loose spreadsheets, random notes but it never stayed organized.
+
+I wanted a single place to log weather, activities, inputs, incidents and yields, so that I could actually look back and make better decisions.
+
+As I worked on it, I realized this simple tool could also help other small farmers facing the same problem.
 
 Shamba Book explores how a single digital logbook can:
 
